@@ -1,3 +1,4 @@
+[README (1).md](https://github.com/user-attachments/files/24216429/README.1.md)
 <h1 align="center">Hi 👋, Myself Abdeali Makda</h1>
 <h3 align="center">A passionate developer from India that turns ideas into scalable code, I want my code to fund my bread, my passions, and my freedom</h3>
 
@@ -5,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdealimak" alt="abdealimak" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,**
+- 🌱 I’m currently learning **Flutter and reading about Quantum Computing**
 
 - 📫 How to reach me **abdealimac@gmail.com**
 
@@ -13,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdeali makda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdeali makda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdeali-makda-445346251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdeali-makda-445346251/" height="30" width="40" /></a>
 <a href="https://instagram.com/abdeali_makda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdeali_makda" height="30" width="40" /></a>
 </p>
 
