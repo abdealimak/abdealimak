@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/24216429/README.1.md)
 <h1 align="center">Hi 👋, Myself Abdeali Makda</h1>
 <h3 align="center">A passionate developer from India that turns ideas into scalable code, I want my code to fund my bread, my passions, and my freedom</h3>
 
