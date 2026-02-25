@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently learning **Flutter and reading about Quantum Computing**
 
-- 📫 How to reach me **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3352515756525f5a5e525073545e525a5f1d505c5e">[email&#160;protected]</a>**
+- 📫 How to reach me **<a href="abdealimac@gmail.com"></a>**
 
 - ⚡ Fav Quote **Every saint has a past, every sinner has a future**
 
