@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, Myself Abdeali Makda</h1>
+<h1 align="center">Hello World 👋 Myself Abdeali Makda</h1>
 <h3 align="center">A passionate developer from India that turns ideas into scalable code, I want my code to fund my bread, my passions, and my freedom ;)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdealimak&label=Profile%20views&color=0e75b6&style=flat" alt="abdealimak" /> </p>
