@@ -11,7 +11,7 @@
 
 - ⚡ Fav Quote: **Every saint has a past, every sinner has a future**
 
-- ❤️‍🔥 My Passions: **🧑🏻‍💻⚽️🎬📚🏔️**
+- ❤️‍🔥 My Passions: **🧑🏻‍💻 ⚽️ 🎬 📚 🏔️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
