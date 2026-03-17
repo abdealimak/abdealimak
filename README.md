@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **<a href="abdealimac@gmail.com">abdealimac@gmail.com</a>**
 
-- ⚡ Fav Quote: **Every saint has a past, every sinner has a future**
+- ✍️ Fav Quote: **Every saint has a past, every sinner has a future**
 
 - ❤️‍🔥 Passionate About: **🧑🏻‍💻 ⚽️ 🎬 📚 🏔️**
 
