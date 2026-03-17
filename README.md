@@ -25,4 +25,3 @@
 <h3>Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdealimak&" alt="abdealimak" /></p>
 <br>
-<h3 align="center">Thank You</h3>
