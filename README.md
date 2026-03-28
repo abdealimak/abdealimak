@@ -5,7 +5,7 @@
 
 
 
-- 🤓 I'm currently learning **React and Flutter**
+- 🤓 I'm currently learning **React and Flutter and investing in QC**
 
 - 📫 How to reach me: **<a href="abdealimac@gmail.com">abdealimac@gmail.com</a>**
 
