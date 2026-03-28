@@ -5,7 +5,7 @@
 
 
 
-- 🤓 I'm currently learning **Flutter and reading about Quantum Computing**
+- 🤓 I'm currently learning **React and reading about Quantum Computing**
 
 - 📫 How to reach me: **<a href="abdealimac@gmail.com">abdealimac@gmail.com</a>**
 
