@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abdeali-makda-445346251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdeali-makda-445346251/" height="30" width="40" /></a>
 <a href="https://instagram.com/abdeali_makda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdeali_makda" height="30" width="40" /></a>
-<a href="https://letterboxd.com/ABDEALI_MAKDA_/" target="blank"><img align="center" src="https://cdn.simpleicons.org/letterboxd/00d735" alt="letterboxd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
