@@ -23,13 +23,13 @@ I want my code to fund my bread, my passions, and my freedom ;)
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/abdeali-makda-445346251/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
-</a>
-
-<a href="https://instagram.com/abdeali_makda" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30"/>
-</a>
+  <a href="https://www.linkedin.com/in/abdeali-makda-445346251/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  
+  <a href="https://instagram.com/abdeali_makda" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
 </p>
 
 ---
