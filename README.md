@@ -13,7 +13,7 @@ I want my code to fund my bread, my passions, and my freedom ;)
 
 ### 👨‍💻 About Me
 
-- 🤓 Currently learning **React, Flutter, and Quantum Computing**
+- 🤓 Currently learning **React, Flutter, and reading about Quantum Computing**
 - 📫 Reach me at: **abdealimac@gmail.com**
 - ✍️ Favorite Quote: **"Every saint has a past, every sinner has a future."**
 - ❤️ Passionate About: 👨🏻‍💻 ⚽️ 🎬 📚 🏔️
