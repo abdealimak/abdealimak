@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Abdeali Makda</h1>
+<h1 align="center">Hey 👋 I'm Abdeali </h1>
 
 <h3 align="center">
 A passionate developer from India 🇮🇳 turning ideas into scalable code.<br>
